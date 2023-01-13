@@ -1,4 +1,4 @@
-# Medical-surwey-Analysis
+# Medical-survey-Analysis
 Medical Survey  Report 
 You have been provided with medical survey data that includes responses from an initial screening (demographic questionnaire), as well as a follow-up medical examination (blood pressure) with lab tests (cholesterol). This data is a subset taken from the NHANES 2005-2006 Survey and provided in the SAS XPT format. You can refer to the CDC website at https://wwwn.cdc.gov/Nchs/Nhanes/ and the links below for detailed descriptions of the features in each dataset.
 
